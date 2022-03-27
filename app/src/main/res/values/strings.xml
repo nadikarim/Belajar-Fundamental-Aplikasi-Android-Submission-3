@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidSubmission3</string>
+    <string name="tab_followers">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="add_username">\@%s</string>
+    <string name="setting">Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="add_favorite">Add favorite</string>
+    <string name="logo">Logo</string>
+</resources>
